@@ -1,0 +1,5 @@
+Hi class!
+Hope you're enjoying Git!
+Best,
+Prof. Raiti
+2/7/22
